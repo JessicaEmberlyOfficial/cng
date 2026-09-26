@@ -1,10 +1,10 @@
 # cng
 A Case Number Generator by Jessica Emberly.
 
-# Requirements
+## Requirements
 * Python
 
-# Usage
+## Usage
 ```
 git clone https://github.com/JessicaEmberlyOfficial/cng/
 ```
